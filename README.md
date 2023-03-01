@@ -1,4 +1,4 @@
-## The Python OJAI Client for MapR-DB
+## The Python OJAI Client for MapR-DB 
 
 A simple, lightweight library that provides access to MapR-DB.
 The client library supports all existing OJAI functionality and is absolutely compatible with Java OJAI connector,
